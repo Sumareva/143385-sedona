@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Людмила Гвоздицких](https://up.htmlacademy.ru/adaptive/11/user/143385).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Половников](https://up.htmlacademy.ru/adaptive/11/user/8359)
 
 ---
 
